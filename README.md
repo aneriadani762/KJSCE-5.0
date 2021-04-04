@@ -1,2 +1,2 @@
-# KJSCE-5.0
+# KJSCE HACK-5.0
 Hackathon Project
